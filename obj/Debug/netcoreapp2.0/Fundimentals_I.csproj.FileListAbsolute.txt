@@ -1,0 +1,10 @@
+/Users/jodiwillard/Documents/C# /Fundimentals_I/obj/Debug/netcoreapp2.0/Fundimentals_I.csproj.CoreCompileInputs.cache
+/Users/jodiwillard/Documents/C# /Fundimentals_I/obj/Debug/netcoreapp2.0/Fundimentals_I.AssemblyInfoInputs.cache
+/Users/jodiwillard/Documents/C# /Fundimentals_I/obj/Debug/netcoreapp2.0/Fundimentals_I.AssemblyInfo.cs
+/Users/jodiwillard/Documents/C# /Fundimentals_I/bin/Debug/netcoreapp2.0/Fundimentals_I.deps.json
+/Users/jodiwillard/Documents/C# /Fundimentals_I/bin/Debug/netcoreapp2.0/Fundimentals_I.runtimeconfig.json
+/Users/jodiwillard/Documents/C# /Fundimentals_I/bin/Debug/netcoreapp2.0/Fundimentals_I.runtimeconfig.dev.json
+/Users/jodiwillard/Documents/C# /Fundimentals_I/bin/Debug/netcoreapp2.0/Fundimentals_I.dll
+/Users/jodiwillard/Documents/C# /Fundimentals_I/bin/Debug/netcoreapp2.0/Fundimentals_I.pdb
+/Users/jodiwillard/Documents/C# /Fundimentals_I/obj/Debug/netcoreapp2.0/Fundimentals_I.dll
+/Users/jodiwillard/Documents/C# /Fundimentals_I/obj/Debug/netcoreapp2.0/Fundimentals_I.pdb

@@ -1,0 +1,10 @@
+/Users/jodiwillard/Documents/C# /Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.deps.json
+/Users/jodiwillard/Documents/C# /Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.runtimeconfig.json
+/Users/jodiwillard/Documents/C# /Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.runtimeconfig.dev.json
+/Users/jodiwillard/Documents/C# /Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.dll
+/Users/jodiwillard/Documents/C# /Fundamentals_I/bin/Debug/netcoreapp2.0/Fundamentals_I.pdb
+/Users/jodiwillard/Documents/C# /Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.csproj.CoreCompileInputs.cache
+/Users/jodiwillard/Documents/C# /Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.AssemblyInfoInputs.cache
+/Users/jodiwillard/Documents/C# /Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.AssemblyInfo.cs
+/Users/jodiwillard/Documents/C# /Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.dll
+/Users/jodiwillard/Documents/C# /Fundamentals_I/obj/Debug/netcoreapp2.0/Fundamentals_I.pdb
